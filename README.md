@@ -27,6 +27,16 @@
   </tr>
   <tr>
     <td>
+      <h3>
+        Platform
+      </h3>
+    </td>
+    <td>
+    Android
+    </td>
+  </tr>
+  <tr>
+    <td>
       <h3>Current development phase</h3>
     </td>
     <td>
