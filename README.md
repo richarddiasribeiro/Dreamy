@@ -45,10 +45,10 @@
   </tr>
   <tr>
     <td>
-      <h3>Latest gameplay snippet</h3>
+      <h3>Link to latest devlog</h3>
     </td>
     <td>
-      <img src="https://github.com/69-richard-dias-ribeiro/Dreamy/assets/62509375/1156e503-c4d5-47d3-9d99-a5cbba069076">
+      TBD
     </td>
   </tr>
 </table>
