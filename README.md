@@ -6,7 +6,7 @@
       <h3>Overview</h3>
     </td>
     <td>
-      Dreamy is a ball-rolling 3D platformer with slight RPG elements in which the main goal is to traverse each level's obstacles (mainly explosive reddish enemies and static/moving platforms) in order to reach its end point
+      Dreamy is a ball-rolling 3D platformer with slight RPG elements in which the main goal is to traverse each level's obstacles (mainly explosive reddish enemies and static/moving platforms) in order to reach the respective end point
     </td>
   </tr>
   <tr>
@@ -52,5 +52,3 @@
     </td>
   </tr>
 </table>
-
-
