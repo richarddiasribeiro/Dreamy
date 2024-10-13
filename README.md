@@ -43,12 +43,4 @@
       Pre-alpha
     </td>
   </tr>
-  <tr>
-    <td>
-      <h3>Link to latest devlog</h3>
-    </td>
-    <td>
-      TBD
-    </td>
-  </tr>
 </table>
