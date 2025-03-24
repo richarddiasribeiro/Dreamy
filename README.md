@@ -40,7 +40,7 @@
       <h3>Current development phase</h3>
     </td>
     <td>
-      Pre-alpha
+      Gold
     </td>
   </tr>
 </table>
