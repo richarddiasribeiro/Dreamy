@@ -6,7 +6,7 @@
       <h3>High concept</h3>
     </td>
     <td>
-      Dreamy is a 3D platformer with slight RPG elements in which you control a magic armadillo named Ronaldo, which goes through an imaginative journey of collecting coins, fighting explosive reddish enemies and traversing static/moving platforms towards each level’s endpoint.
+      Dreamy is a 3D platformer with slight RPG elements in which you control a magic armadillo named Ronaldo, which goes through an imaginative journey of collecting coins, fighting reddish glass-made enemies and traversing static/moving platforms towards each level’s endpoint.
     </td>
   </tr>
   <tr>
