@@ -32,7 +32,7 @@
       </h3>
     </td>
     <td>
-    Mobile (Android)
+    Android and Windows
     </td>
   </tr>
   <tr>
